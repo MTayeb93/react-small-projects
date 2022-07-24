@@ -28,10 +28,3 @@
 12. Modal And Sidebar
 13. Stripe Submenus
 
-#### useReducer and useContext
-
-14. Cart
-
-#### React Router and useCallback
-
-15. Cocktails
